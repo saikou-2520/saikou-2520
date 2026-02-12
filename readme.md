@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nenu%20Manishi%20Ni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nenu%20Manishi%20Ni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Developer%20|%20Problem%20Creater&descAlignY=51&descAlign=50"/>
 
 ### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University - pedha college eyyyyy
 
