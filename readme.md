@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University - pedha college eyyyyy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+pProblems+That+Matter;RED+Stack+Enthusiast;Nijal+Kompa+Explorer;Always+Missing+Chance+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Problems+That+Matter;RED+Stack+Enthusiast;Nijal+Kompa+Explorer;Always+Missing+Chance+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br>
 
