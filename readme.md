@@ -9,8 +9,8 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-prakash-k-103286355/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaiprakash-k)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjaiprakash000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikou-2520)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjaiprakash2520@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=jaiprakash-k&color=00D9FF&style=for-the-badge)
 
 </div>
@@ -21,12 +21,12 @@
 
 ```typescript
 const developer = {
-    name: "Jai Prakash",
-    location: "Vijayawada, Andhra Pradesh 🇮🇳",
+    name: "Nenu Manishi Ni",
+    location: "Madi Kakinada Andi, Andhra Pradesh 🇮🇳",
     education: {
-        degree: "B.Tech in Computer Science & Engineering",
-        specialization: "Software Engineering",
-        university: "SRM University"
+        degree: "CSE Anta",
+        specialization: "emo naku teliyadu",
+        university: "SRM University-pedha college eyyyyy"
     },
     workStyle: "Creating meaningful solutions, not just writing code",
     interests: [
